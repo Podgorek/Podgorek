@@ -1,9 +1,7 @@
-### Hi there 👋
+### About me
 
+I'm a student at Computer Science and Intelligent Systems of AGH University of Science and Technology.
+Currently I'm improving my skills at java and C#. Besides that I'm a member of Student Scientific Association AGH Marines, where I m currently
+involved in making robot for ROV Mate Competition.
+In free time I like swimming, playing volleyball and spending time with my friends.
 
-
-- 🔭 I’m currently working on project with my friends
-- 🌱 I’m currently learning programming in python
-- 🤔 I’m looking for help with 
-- ⚡ Fun fact: I like swimming and programming
-- 👌 And here is my [website](https://podgorek.github.io)
